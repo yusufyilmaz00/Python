@@ -1,5 +1,7 @@
 # Programlama Ödevi - Döngüler
+[👉 **click for the answers** 👈](https://nbviewer.org/github/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama/blob/master/D%C3%B6ng%C3%BCler/D%C3%B6ng%C3%BCler%20-%20%C3%96dev%20ve%20%C3%87%C3%B6z%C3%BCmleri/Programlama%20%C3%96devi%20%C3%87%C3%B6z%C3%BCmleri%20-%20%20D%C3%B6ng%C3%BCler.ipynb)
 
+---
 Tebrikler! Bölümü başarıyla bitirdiniz. Şimdi, öğrendiklerinizin akılda kalması için ödevinizi yapma zamanı!
 
 **Not: Buradaki tüm problemler sizin algoritma yeteneğinizi oldukça geliştirecektir. O yüzden zorlandığınız noktalarda pes etmeyin. Üzerine kafa yormaya ve sürekli denemeye çalışın.**
