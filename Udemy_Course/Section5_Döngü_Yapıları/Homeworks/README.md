@@ -4,13 +4,13 @@ Tebrikler! Bölümü başarıyla bitirdiniz. Şimdi, öğrendiklerinizin akılda
 
 **Not: Buradaki tüm problemler sizin algoritma yeteneğinizi oldukça geliştirecektir. O yüzden zorlandığınız noktalarda pes etmeyin. Üzerine kafa yormaya ve sürekli denemeye çalışın.**
 
-## Problem 1
+## [Problem 1](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem1.py)
 
 Kullanıcıdan aldığınız bir sayının mükemmel olup olmadığını bulmaya çalışın.
 
 Bir sayının kendi hariç bölenlerinin toplamı kendine eşitse bu sayıya "mükemmel sayı" denir. Örnek olarak, 6 mükemmel bir sayıdır. (1 + 2 + 3 = 6)
 
-## Problem 2
+## [Problem 2](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem2.py)
 
 Kullanıcıdan aldığınız bir sayının "Armstrong" sayısı olup olmadığını bulmaya çalışın.
 
@@ -18,23 +18,23 @@ Kullanıcıdan aldığınız bir sayının "Armstrong" sayısı olup olmadığı
 
 Örnek olarak : 1634 = 1^4 + 6^4 + 3^4 + 4^4
 
-## Problem 3
+## [Problem 3](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem3.py)
 
 1'den 10'kadar olan sayılarla ekrana çarpım tablosu bastırmaya çalışın.
 
 **İpucu: İç içe 2 tane for döngüsü kullanın. Aynı zamanda sayıları range() fonksiyonunu kullanarak elde edin.**
 
-## Problem 4
+## [Problem 4](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem4.py)
 
 Her bir while döngüsünde kullanıcıdan bir sayı alın ve kullanıcının girdiği sayıları "toplam" isimli bir değişkene ekleyin. Kullanıcı "q" tuşuna bastığı zaman döngüyü sonlandırın ve ekrana "toplam değişkenini" bastırın.
 
 **İpucu : while döngüsünü sonsuz koşulla başlatın ve kullanıcı q'ya basarsa döngüyü break ile sonlandırın.**
 
-## Problem 5
+## [Problem 5](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem5.py)
 
 1'den 100'e kadar olan sayılardan sadece 3'e bölünen sayıları ekrana bastırın. Bu işlemi continue ile yapmaya çalışın.
 
-## Problem 6
+## [Problem 6](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks/problem6.py)
 
 Buradaki problemin çözümünü derslerimizde özellikle öğrenmedik. Burada mantık yürüterek ve list comprehension kullanarak 1'den 100'e kadar olan sayılardan sadece çift sayıları bir listeye atmayı yapmayı çalışın.
 
