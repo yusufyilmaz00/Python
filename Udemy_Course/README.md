@@ -2,11 +2,13 @@
 # [(40+ Saat) Python | Sıfırdan İleri Seviye Programlama (2020)](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
 
 ## 📚 Ders İçeriği
+---
 ### Bölüm 3: Temel Python Objeleri ve Veri Yapıları
 - Dosya yok
 ### Bölüm 4: Koşullu Durumlar
 - Dosya yok
-### Bölüm 5: Pythonda Döngü Yapıları  
+### [Bölüm 5: Pythonda Döngü Yapıları](https://github.com/yusufyilmaz00/Python/tree/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1)
+
 ### Bölüm 6: Fonksiyonlar
 ### Bölüm 7: Modüller
 ### Bölüm 8: Nesne Tabanlı Programlama
@@ -14,7 +16,12 @@
 ### Bölüm 10: Dosya İşlemleri
 
 ## 🧩 Kod Egzersizleri ( Code Exercise)
+---
+### [Gelişmiş Kullanıcı Girişi](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/040_Geli%C5%9Fmi%C5%9F_kullan%C4%B1c%C4%B1_giri%C5%9Fi.py)
+
+### [Atm Programı](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/041_atm_makinesi.py)
+### [Fibonacci with For Loop](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/043_Fibonacci_say%C4%B1lar%C4%B1.py)
 
 ## 🎯 Ödevler (Homeworks)
-- Döngü
-    - problem 1
+---
+### [Döngü](https://github.com/yusufyilmaz00/Python/tree/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks)
