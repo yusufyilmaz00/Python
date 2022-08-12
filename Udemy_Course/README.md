@@ -1,7 +1,7 @@
 ![Masterhead](https://about.udemy.com/wp-content/uploads/2021/12/udemy-logo-share.png)
 # [(40+ Saat) Python | Sıfırdan İleri Seviye Programlama (2020)](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
 
-## 📚 Ders İçeriği
+## 📚 Course Content (Ders İçeriği)
 
 ### Bölüm 3: Temel Python Objeleri ve Veri Yapıları
 - Dosya yok
@@ -16,7 +16,7 @@
 ### Bölüm 9: Hatalar ve İstisnalar
 ### Bölüm 10: Dosya İşlemleri
 
-## 🧩 Kod Egzersizleri ( Code Exercise)
+## 🧩 Code Exercise (Kod Egzersizleri)
 
 ### [Gelişmiş Kullanıcı Girişi](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/040_Geli%C5%9Fmi%C5%9F_kullan%C4%B1c%C4%B1_giri%C5%9Fi.py)
 
@@ -28,7 +28,7 @@
 
 ### [Sayının Bölenlerini Bulma](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section6_Fonksiyonlar/053_Tam_say%C4%B1_b%C3%B6len.py)
 
-## 🎯 Ödevler (Homeworks)
+## 🎯 Homeworks (Ödevler)
 
 ### [Döngü](https://github.com/yusufyilmaz00/Python/tree/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/Homeworks)
 
