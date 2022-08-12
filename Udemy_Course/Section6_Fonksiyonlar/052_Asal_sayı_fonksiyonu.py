@@ -9,6 +9,10 @@ def is_prime(num):
         return True
     else:
         for i in range(2,int(num ** 0.5)+1):
+            if num % i ==0:
+                return False
+        else:
+            return True
 
 """
 Buradaki { int(num ** 0.5) + 1 } işlemini inceleyelim.
@@ -59,10 +63,6 @@ Buradaki { int(num ** 0.5) + 1 } işlemini inceleyelim.
     kodumuzun çalışma süresini ve deneme sayısını kısaltmış oluruz. Bu da en verimli ve hızlı şekilde asal sayıyı
     bulmamızı sağlar.
 """
-            if num % i ==0:
-                return False
-        else:
-            return True
 
 while True:
     x = input("Bir sayı gir: ")
