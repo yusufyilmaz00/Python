@@ -19,7 +19,7 @@
 
 ## 🧩 Code Exercise (Kod Egzersizleri)
 
-### [Gelişmiş Kullanıcı Girişi](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/040_Geli%C5%9Fmi%C5%9F_kullan%C4%B1c%C4%B1_giri%C5%9Fi.py)
+### [Basic User Login](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/040_Geli%C5%9Fmi%C5%9F_kullan%C4%B1c%C4%B1_giri%C5%9Fi.py)
 
 ### [Atm Programı](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section5_D%C3%B6ng%C3%BC_Yap%C4%B1lar%C4%B1/041_Atm_program%C4%B1.py)
 
