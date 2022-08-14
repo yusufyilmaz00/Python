@@ -13,7 +13,8 @@
 
 ### [Bölüm 7: Modüller](https://github.com/yusufyilmaz00/Python/tree/main/Udemy_Course/Section7_Mod%C3%BCller) 
 
-### Bölüm 8: Nesne Tabanlı Programlama
+### [Bölüm 8: Nesne Tabanlı Programlama](https://github.com/yusufyilmaz00/Python/tree/main/Udemy_Course/Section8_Object_Oriented_Programing)
+
 ### Bölüm 9: Hatalar ve İstisnalar
 ### Bölüm 10: Dosya İşlemleri
 
@@ -30,6 +31,8 @@
 ### [Sayının Bölenlerini Bulma](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section6_Fonksiyonlar/053_Tam_say%C4%B1_b%C3%B6len.py)
 
 ### [Number Guess Game](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section7_Mod%C3%BCller/059_Say%C4%B1_tahmin_oyunu.py)
+
+### [OOP Remote Control](https://github.com/yusufyilmaz00/Python/blob/main/Udemy_Course/Section8_Object_Oriented_Programing/067_OOP_Remote_control_w_classes.py)
 
 ## 🎯 Homeworks (Ödevler)
 
